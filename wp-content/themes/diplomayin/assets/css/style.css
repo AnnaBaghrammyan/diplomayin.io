@@ -1,0 +1,44 @@
+i.fa.fa-solid.fa-truck-moving {
+    color: #00BFD8;
+    font-size: 52px;
+}
+
+#logo-title-gb {
+    font-size: 20px;
+}
+
+.um.um-register.um-5.uimob500 {
+    position: absolute;
+    top: 12%;
+    left: 15%;
+}
+
+.um.um-login.um-6.uimob500 {
+    position: absolute;
+    top: 12%;
+    left: 15%;
+}
+
+.page-template-register .header,
+.page-template-login .header,
+.page-template-user .header {
+    height: 100vh;
+}
+
+.page-template-user .header {
+    background: none;
+    background-size: cover;
+}
+
+.um.um-profile.um-viewing.um-7.um-role-subscriber {
+    position: absolute;
+    top: 0;
+}
+
+.um-7.um {
+    max-width: 100% !important;
+}
+
+.page-template-user a.nav-link.page-scroll {
+    color: black!important;
+}
